@@ -1,5 +1,5 @@
-WebJar for [Library]
+WebJar for Jasny Bootstrap Extensions
 
 More info: http://webjars.org
 
-Upstream: [Library URL]
+Upstream: http://jasny.github.com/bootstrap/index.html
