@@ -47,7 +47,7 @@
         <requirejs>
             {
                 "paths": {
-                    "jasny-bootstrap": "jasny-bootstrap"
+                    "jasny-bootstrap": "js/jasny-bootstrap"
                 },
                 "shim": {
                     "jasny-bootstrap": [ "bootstrap" ]
