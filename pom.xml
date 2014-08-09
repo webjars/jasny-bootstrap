@@ -11,7 +11,7 @@
     <packaging>jar</packaging>
     <groupId>org.webjars</groupId>
     <artifactId>jasny-bootstrap</artifactId>
-    <version>3.1.3-2</version>
+    <version>3.1.3-3-SNAPSHOT</version>
     <name>Jasney Bootstrap Extensions</name>
     <description>WebJar for Jasney Bootstrap Extensions</description>
     <url>http://webjars.org</url>
@@ -36,7 +36,7 @@
         <url>http://github.com/webjars/jasny-bootstrap</url>
         <connection>scm:git:https://github.com/webjars/jasny-bootstrap.git</connection>
         <developerConnection>scm:git:https://github.com/webjars/jasny-bootstrap.git</developerConnection>
-        <tag>jasny-bootstrap-3.1.3-2</tag>
+        <tag>HEAD</tag>
     </scm>
     
     <properties>
